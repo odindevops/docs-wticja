@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-mm8t19.nuansa138win.cfd/sitemap.xml
